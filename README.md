@@ -38,10 +38,10 @@ Follow the steps below to clone the repository and run the game on your local ma
 1.  **Clone the Repository**
 
     ```
-    git clone <repository-url>
+    git clone https://github.com/Taher-Kota/Zig-Zag-3D.git
     ```
 
-    Replace `<repository-url>` with the URL of your GitHub repository.
+    Replace `https://github.com/Taher-Kota/Zig-Zag-3D.git` with the URL of your GitHub repository.
 
 2.  **Open the Project in Unity**
 
